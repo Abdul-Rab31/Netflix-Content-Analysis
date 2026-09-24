@@ -3,7 +3,7 @@
 
 ## 📊 Dashboard Preview
 
-![Netflix Content Analytics Dashboard](3_Dashboard%20Screenshot/Netflix%20Content%20Analysis.png))
+![Netflix Content Analytics Dashboard](3_Dashboard%20Screenshot/Netflix%20Content%20Analysis.png)
 
 > An interactive Power BI dashboard for analyzing Netflix movies and TV series based on content type, release year, genres, ratings, and production countries.
 
